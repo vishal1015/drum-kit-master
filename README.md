@@ -3,6 +3,6 @@ It is a site  developed using HTML, CSS and js for logic implementation, where v
 
 It is hosted on : https://vishal1015.github.io/drum-kit-master/
 
-It looks like this :![Screenshot 2022-07-27 at 8 50 17 PM](https://user-images.githubusercontent.com/63348665/181285387-35b957d3-0b36-4f47-9b12-6db54825338b.png)
+It looks like this :![image](https://user-images.githubusercontent.com/109803237/234792495-04b4dd2c-e12d-4c9b-a887-cb3d9bed62f3.png)
 
 
